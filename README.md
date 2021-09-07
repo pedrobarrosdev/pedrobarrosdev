@@ -1,6 +1,4 @@
 
-
-<hr>
 ![Banner LinkedIn-2](https://user-images.githubusercontent.com/71517464/132423402-cd1cee56-b83e-41c1-a365-8a10db073143.png)
 
 <!--
