@@ -1,5 +1,5 @@
+<h1>Hello<h1/>
 
-![Banner LinkedIn-2](https://user-images.githubusercontent.com/71517464/132423402-cd1cee56-b83e-41c1-a365-8a10db073143.png)
 
 <!--
 **pedrogcamposb/pedrogcamposb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
