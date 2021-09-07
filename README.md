@@ -1,4 +1,7 @@
-![8fe550d569e3f0957e99543d24aef5b6](https://user-images.githubusercontent.com/71517464/132423283-a0c19894-167c-4d94-a794-d602c7b62958.jpeg)
+
+
+
+![Banner LinkedIn-2](https://user-images.githubusercontent.com/71517464/132423402-cd1cee56-b83e-41c1-a365-8a10db073143.png)
 
 
 
