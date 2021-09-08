@@ -6,7 +6,6 @@
 
 Hello! I much appreciate you're interest in getting to know me!
 
-* I am a self-taught software developer student, currently taking part in Rocketseat's Ignite Bootcamp for Node.js.
 * In 2020, as I was writing my thesis on Blockchain & Foreign Trade for my Foreign Trade's bachelor's degree, I rekindled my passion for technology and this time, there was no stopping me, except the excruciating anxiety I was feeling from realizing t I was about to graduate in an area I didn't want to be working in... but everything worked out just fine!
 * Since graduating I've been studying non-stop everything I can to become a software developer.
 * This year I started my journey to transitioning careers with Web Development, briefly crossed paths with Mobile Development (Android), but now I'm back on track with Web Development.
