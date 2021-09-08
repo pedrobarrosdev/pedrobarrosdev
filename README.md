@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/71517464/132514822-7ad06303-4654-4ae1-b9d8-8dae1d45cbbb.gif" align="center">
+<img src="https://user-images.githubusercontent.com/71517464/132516194-c835db33-616a-49f7-a6b6-c27fca0098ec.gif" align="center">
 </div>
+
+
   
 ```javascript
 const pedro = {
@@ -40,8 +42,8 @@ const pedro = {
 ```
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
 <h2></h2>
