@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/71517464/132514822-7ad06303-4654-4ae1-b9d8-8dae1d45cbbb.gif" align="center">
+</div>
+  
 ```javascript
 const pedro = {
   codingSince: 2020,
@@ -34,11 +38,14 @@ const pedro = {
   funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time."
 };
 ```
+<div align="center">
+  <a href="https://github.com/pedrogcamposb">
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=dracula"/>
+ </div>
 
-<hr>
-
-
-
+<h2></h2>
+  
 <h3 align="center"><a href="https://www.linkedin.com/in/pedrogcamposb/">Let's network! <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="14px"></a></h3>
 
 
