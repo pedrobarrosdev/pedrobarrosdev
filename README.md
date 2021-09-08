@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/71517464/132427018-5963a25b-3621-487f-83b0-9230886e47dd.gif" width="300px" align="right">
 
-Hello! I much appreciate you're interest in getting to know me!
+Hello! I much appreciate your interest in getting to know me!
 
 * In 2020, as I was writing my thesis on Blockchain & Foreign Trade for my Foreign Trade's bachelor's degree, I rekindled my passion for technology and this time, there was no stopping me, except the excruciating anxiety I was feeling from realizing t I was about to graduate in an area I didn't want to be working in... but everything worked out just fine!
 * Since graduating I've been studying non-stop everything I can to become a software developer.
