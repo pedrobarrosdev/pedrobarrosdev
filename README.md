@@ -10,6 +10,11 @@ const pedro = {
     },
     VCS: ["Git"]
   },
+  pronouns: "He/Him",
+  character: {
+    traits: ["charisma", "organization", "minimalism"],
+    values: ["honesty", "respect", "sympathy"]
+  },
   spokenLanguages: ["Portuguese", "English", "French"],
   likes: {
     music: ["rock", "classic", "jazz", "MPB", "samba", "disco"],
@@ -20,14 +25,13 @@ const pedro = {
     places: ["Paris", "Lisbon", "Seville", "Bergen"],
     beverages: ["wine"]
   },
-  character: {
-    traits: ["charisma", "organization", "minimalism"],
-    values: ["honesty", "respect", "sympathy"]
+  interests: {
+    general: ["environmentalism", "politics", "economy, "science", "history", "entrepreneurship"],
+    tech: ["blockchain", "artificial intelligence", "cybersecurity", "backend engineering"]
   },
   funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time."
 }
 ```
-
 <hr>
 
 
