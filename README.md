@@ -24,12 +24,15 @@ const pedro = {
   funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time."
 };
 ```
+<h3>GitHub Stats</h3>
+
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
   <img height="168px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=default"/>
 </div>
-  
+
+<h3>Highlights</h3>
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
   <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false"/>
