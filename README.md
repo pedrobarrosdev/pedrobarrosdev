@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/71517464/132516194-c835db33-616a-49f7-a6b6-c27fca0098ec.gif" align="center">
+  <img src="https://user-images.githubusercontent.com/71517464/132533313-b47ad21c-5984-4449-8097-19a225c64ca2.gif" align="center">
 </div>
-  
+
 ```javascript
 const pedro = {
   codingSince: 2020,
@@ -23,6 +23,8 @@ const pedro = {
   },
   funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time."
 };
+
+console.log("Hello");
 ```
 <h3 align="center">📈 GitHub Stats 📈</h3>
 
