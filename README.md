@@ -32,7 +32,7 @@ const pedro = {
     tech: ["blockchain", "artificial intelligence", "cybersecurity", "backend engineering"]
   },
   funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time."
-}
+};
 ```
 <hr>
 
