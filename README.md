@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/71517464/132533313-b47ad21c-5984-4449-8097-19a225c64ca2.gif" align="center">
+  <img src="https://user-images.githubusercontent.com/71517464/132535046-613dbde8-11f6-488e-b11e-7c6345da63c7.gif" align="center">
 </div>
+
 
 ```javascript
 const pedro = {
