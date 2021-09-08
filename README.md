@@ -28,6 +28,7 @@ const pedro = {
 ```
 <h3 align="center">📈 Stats 📈</h3>
 
+<!-- CUSTOM THEME -->
 <!--
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
@@ -37,15 +38,29 @@ const pedro = {
 </div>
 -->
 
+<!-- BLACK AND WHITE THEME -->
+<!--
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
     <img height="168px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&bg_color=fffff&border_color=000000&title_color=000000&icon_color=000000&text_color=000000&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's GitHub"/>
     <img height="168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=default&hide_border=false&bg_color=ffffff&border_color=000000&title_color=000000&icon_color=000000&text_color=000000&locale=en"/>
   </a>
 </div>
+-->
+
+<!-- GRAYWHITE THEME -->
+
+<div align="center">
+  <a href="https://github.com/pedrogcamposb">
+    <img height="168px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's GitHub"/>
+    <img height="168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=graywhite&hide_border=false&locale=en"/>
+  </a>
+</div>
+
 
 <h3 align="center">🌟 Highlights 🌟</h3>
 
+<!-- CUSTOM THEME -->
 <!--
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
@@ -57,6 +72,8 @@ const pedro = {
 </div>
 -->
 
+<!-- BLACK AND WHITE THEME -->
+<!--
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
     <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=fffff&border_color=000000&title_color=000000&icon_color=000000&text_color=000000"/>
@@ -65,6 +82,19 @@ const pedro = {
     <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=fffff&border_color=000000&title_color=000000&icon_color=000000&text_color=000000"/>
   </a>
 </div>
+-->
+
+<!-- GRAYWHITE THEME -->
+
+<div align="center">
+  <a href="https://github.com/pedrogcamposb">
+    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&theme=graywhite"/>
+    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&theme=graywhite"/>
+    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&theme=graywhite"/>
+    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&theme=graywhite"/>
+  </a>
+</div>
+
   
 <h2></h2>
 
