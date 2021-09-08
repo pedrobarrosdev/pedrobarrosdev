@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="16px"> Welcome to my GitHub profile!</h2>
+<h1 align="center"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="24px"> Welcome to my GitHub profile!</h1>
 
 <h3>About me</h3>
 
