@@ -34,7 +34,7 @@ const pedro = {
 
 <h2></h2>
   
-<h3 align="center"><a href="https://www.linkedin.com/in/pedrogcamposb/">Let's network! <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="14px"></a></h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/pedrogcamposb/">Let's network!</a></h3>
 
 
 
