@@ -18,11 +18,6 @@ const pedro = {
     },
     devOps: ["Git"]
   },
-  pronouns: "He/Him",
-  character: {
-    traits: ["charisma", "organization", "minimalism"],
-    values: ["honesty", "respect", "sympathy"]
-  },
   spokenLanguages: ["Portuguese", "English", "French"],
   interests: {
     general: ["environmentalism", "politics", "economy", "science", "history", "entrepreneurship"],
