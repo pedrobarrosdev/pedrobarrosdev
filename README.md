@@ -19,8 +19,8 @@ const pedro = {
     devOps: ["Git"]
   },
   currentlyStudying: "Node.js",
-  iHaveEyesOn: ["React.js", "React Native", "Elixir"],
   currentlyWorkingOn: "building my portfolio",
+  iHaveEyesOn: ["React.js", "React Native", "Elixir"],
   spokenLanguages: ["Portuguese", "English", "French"],
   interests: {
     general: ["environmentalism", "politics", "economy", "science", "history", "entrepreneurship"],
