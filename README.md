@@ -90,8 +90,8 @@ const pedro = {
 
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=to-do-app&show_owner=false&hide_border=false&theme=graywhite"/>
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=profile-card-frontend-mentor&show_owner=false&hide_border=false&theme=graywhite"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=to-do-app&show_owner=false&hide_border=false&theme=graywhite"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=profile-card-frontend-mentor&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
 </div>
 
