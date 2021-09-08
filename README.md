@@ -1,4 +1,7 @@
-<h1>👨🏽‍💻 Welcome to my GitHub profile!</h1>
+<h1 align="center"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="24px"> Welcome to my GitHub profile!</h1>
+
+
+<h2>My Stats</h2>
 
 <!--
 **pedrogcamposb/pedrogcamposb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
