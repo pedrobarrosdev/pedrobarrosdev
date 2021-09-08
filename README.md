@@ -10,7 +10,7 @@ Hello! I much appreciate your interest in getting to know me!
 * Since graduating I've been studying non-stop everything I can to become a software developer.
 * This year I started my journey to transitioning careers with Web Development, briefly crossed paths with Mobile Development (Android), but now I'm back on track with Web Development.
 
-<h5>Other than that...</h5>
+<h4>Other than that...</h4>
 
 * I speak 3 languages: Portuguese (native), English (fluent), and French (advanced).
 * I am 50% deaf on my left ear as a result from birth complications, but don't worry, I hear just fine... most of the time.
