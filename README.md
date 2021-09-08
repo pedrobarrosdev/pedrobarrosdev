@@ -9,8 +9,6 @@
 ```javascript
 const pedro = {
   codingSince: 2020,
-  currentlyStudying: "Node.js",
-  currentlyWorkingOn: "building my portfolio",
   skills: {
     frontEnd: ["HTML", "CSS", "JavaScript"],
     backEnd: ["Node.js", "Java"],
@@ -20,6 +18,9 @@ const pedro = {
     },
     devOps: ["Git"]
   },
+  currentlyStudying: "Node.js",
+  iHaveEyesOn: ["React.js", "React Native", "Elixir"],
+  currentlyWorkingOn: "building my portfolio",
   spokenLanguages: ["Portuguese", "English", "French"],
   interests: {
     general: ["environmentalism", "politics", "economy", "science", "history", "entrepreneurship"],
