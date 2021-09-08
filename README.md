@@ -30,18 +30,18 @@ const pedro = {
 
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
-    <img height="168px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA"/>
-    <img height="168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=default&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA"/>
+    <img height="168px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069"/>
+    <img height="168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=default&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069"/>
   </a>
 </div>
 
 <h3 align="center">🌟 Highlights 🌟</h3>
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
-    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA"/>
-    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA"/>
-    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA"/>
-    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA"/>
+    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069"/>
+    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069"/>
+    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069"/>
+    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069"/>
   </a>
 </div>
   
