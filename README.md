@@ -47,6 +47,6 @@ const pedro = {
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedrogcamposb/">
-   <img height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/><br><em><strong>Let's network!</strong></em>
+   <img height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/><br><strong>Let's network!</strong>
   </a>
 </div>
