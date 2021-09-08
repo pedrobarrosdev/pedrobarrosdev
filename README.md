@@ -34,7 +34,8 @@ const pedro = {
   funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time."
 };
 ```
-<hr>
+
+<h3 align="center"><a href="https://www.linkedin.com/in/pedrogcamposb/">Let's network! <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="14px"></a></h3>
 
 
 
