@@ -1,6 +1,15 @@
 ```javascript
 const pedro = {
   codingSince: 2020,
+    skills: {
+    frontEnd: ["HTML", "CSS", "JavaScript"],
+    backEnd: ["Node.js", "Java"],
+    database: {
+      SQL: ["mySQL", "Postgre"],
+      noSQL: ["MongoDB"]
+    },
+    VCS: ["Git"]
+  },
   spokenLanguages: ["Portuguese", "English", "French"],
   likes: {
     music: ["rock", "classic", "jazz", "MPB", "samba", "disco"],
@@ -15,16 +24,7 @@ const pedro = {
     traits: ["charisma", "organization", "minimalism"],
     values: ["honesty", "respect", "sympathy"]
   },
-  funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time.",
-  skills: {
-    frontEnd: ["HTML", "CSS", "JavaScript"],
-    backEnd: ["Node.js", "Java"],
-    database: {
-      SQL: ["mySQL", "Postgre"],
-      noSQL: ["MongoDB"]
-    },
-    VCS: ["Git"]
-  }
+  funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time."
 }
 ```
 
