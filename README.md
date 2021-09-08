@@ -10,7 +10,7 @@ const pedro = {
       SQL: ["mySQL", "Postgre"],
       noSQL: ["MongoDB"]
     },
-    VCS: ["Git"]
+    devOps: ["Git"]
   },
   pronouns: "He/Him",
   character: {
