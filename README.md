@@ -1,46 +1,33 @@
-<h1 align="center"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="24px"> Welcome to my GitHub profile!</h1>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/71517464/132427018-5963a25b-3621-487f-83b0-9230886e47dd.gif" width="500px" align="center">
-</div>
-
-<h3>About me</h3>
-
-Hello! If you're reading this, I much appreciate your interest in getting to know me!
-
-* In 2020, as I was writing my thesis on Blockchain & Foreign Trade for my Foreign Trade's bachelor's degree, I rekindled my passion for technology and this time, there was no stopping me, except the excruciating anxiety I was feeling from realizing t I was about to graduate in an area I didn't want to be working in... but everything is working out just fine!
-* Since graduating I've been studying non-stop everything I can to become a software developer.
-* This year I started my journey to transitioning careers with Web Development, briefly crossed paths with Mobile Development (Android), but now I'm back on track with Web Development.
-
-<h4>Other than that...</h4>
-
-* I speak 3 languages: Portuguese (native), English (fluent), and French (advanced).
-* I am 50% deaf on my left ear as a result from birth complications, but don't worry, I hear just fine... most of the time.
-* I ❤️ a **good** wine, a **good** movie, a **good** rock song, and plenty of other **good** stuff!
-
-<h4>Table of Personal Character</h4>
-
-  Traits | Values
-  ------------ | -------------
-  Charisma | Honesty
-  Organization | Respect
-  Minimalism | Sympathy
-
-<h3>My Skills</h3>
-
 ```javascript
-const skills = {
-  frontEnd: ["HTML", "CSS", "JavaScript"],
-  backEnd: ["Node.js", "Java"],
-  database: {
-    SQL: ["mySQL", "PostgreSQL"],
-    noSQL: ["MongoDB"]
+const pedro = {
+  codingSince: 2020,
+  spokenLanguages: ["Portuguese", "English", "French"],
+  likes: {
+    music: ["rock", "classic", "jazz", "MPB", "samba", "disco"],
+    sports: ["tennis", "swimming", "sailing", "chess", "gym"],
+    movies: ["inception", "Moulin Rouge", "007 franchise", "Marvel franchise"],
+    series: ["The Big Bang Theory", "WandaVision", "Succession", "Rick and Morty"],
+    books: ["Harry Potter", "The old man and the sea", "Essentialism"],
+    places: ["Paris", "Lisbon", "Seville", "Bergen"],
+    beverages: ["wine"]
   },
-  VCS: ["Git"]
+  character: {
+    traits: ["charisma", "organization", "minimalism"],
+    values: ["honesty", "respect", "sympathy"]
+  },
+  funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time.",
+  skills: {
+    frontEnd: ["HTML", "CSS", "JavaScript"],
+    backEnd: ["Node.js", "Java"],
+    database: {
+      SQL: ["mySQL", "Postgre"],
+      noSQL: ["MongoDB"]
+    },
+    VCS: ["Git"]
+  }
 }
 ```
 
-<h3>My Stats</h3>
 
 
 
