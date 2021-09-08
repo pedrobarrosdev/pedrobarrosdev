@@ -24,15 +24,6 @@ const pedro = {
     values: ["honesty", "respect", "sympathy"]
   },
   spokenLanguages: ["Portuguese", "English", "French"],
-  likes: {
-    music: ["rock", "classic", "jazz", "MPB", "samba", "disco"],
-    sports: ["tennis", "swimming", "sailing", "chess", "gym"],
-    movies: ["inception", "Moulin Rouge", "007 franchise", "Marvel franchise"],
-    series: ["The Big Bang Theory", "WandaVision", "Succession", "Rick and Morty"],
-    books: ["Harry Potter", "The old man and the sea", "Essentialism"],
-    places: ["Paris", "Lisbon", "Seville", "Bergen"],
-    beverages: ["wine"]
-  },
   interests: {
     general: ["environmentalism", "politics", "economy", "science", "history", "entrepreneurship"],
     tech: ["blockchain", "artificial intelligence", "cybersecurity", "backend engineering"]
