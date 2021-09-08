@@ -1,7 +1,9 @@
 ```javascript
 const pedro = {
   codingSince: 2020,
-    skills: {
+  currentlyStudying: "Node.js",
+  currentlyWorkingOn: "building a portfolio",
+  skills: {
     frontEnd: ["HTML", "CSS", "JavaScript"],
     backEnd: ["Node.js", "Java"],
     database: {
