@@ -26,7 +26,7 @@ const pedro = {
   funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time."
 };
 ```
-<h3 align="center">📈 GitHub Stats 📈</h3>
+<h3 align="center">📈 Stats 📈</h3>
 
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
