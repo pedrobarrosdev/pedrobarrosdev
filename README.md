@@ -26,7 +26,7 @@ const pedro = {
     beverages: ["wine"]
   },
   interests: {
-    general: ["environmentalism", "politics", "economy, "science", "history", "entrepreneurship"],
+    general: ["environmentalism", "politics", "economy", "science", "history", "entrepreneurship"],
     tech: ["blockchain", "artificial intelligence", "cybersecurity", "backend engineering"]
   },
   funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time."
