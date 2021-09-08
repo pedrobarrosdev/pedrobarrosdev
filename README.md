@@ -25,8 +25,6 @@ const pedro = {
   },
   funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time."
 };
-
-console.log("Hello");
 ```
 <h3 align="center">📈 GitHub Stats 📈</h3>
 
