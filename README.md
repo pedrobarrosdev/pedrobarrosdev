@@ -6,7 +6,7 @@
 const pedro = {
   codingSince: 2020,
   currentlyStudying: "Node.js",
-  currentlyWorkingOn: "building a portfolio",
+  currentlyWorkingOn: "building my portfolio",
   skills: {
     frontEnd: ["HTML", "CSS", "JavaScript"],
     backEnd: ["Node.js", "Java"],
@@ -37,20 +37,3 @@ const pedro = {
    <img height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/><br><em><strong>Let's network!</strong></em>
   </a>
 </div>
-
-<!--
-**pedrogcamposb/pedrogcamposb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-To add: links (personal website, linkedin), about me, spoken lannguages, programming languages, header
--->
