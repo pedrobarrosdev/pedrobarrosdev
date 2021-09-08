@@ -30,8 +30,8 @@ const pedro = {
 
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
-    <img height="168px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069"/>
-    <img height="168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=default&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069"/>
+    <img height="168px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069&locale=en&count_private=true&hide_rank=true"/>
+    <img height="168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=default&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069&locale=en"/>
   </a>
 </div>
 
