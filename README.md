@@ -60,7 +60,6 @@ const pedro = {
   </a>
 </div>
 
-
 <h3 align="center">🌟 Highlights 🌟</h3>
 
 <!-- CUSTOM THEME -->
@@ -96,7 +95,6 @@ const pedro = {
   </a>
 </div>
 
-  
 <h2></h2>
 
 <div align="center">
