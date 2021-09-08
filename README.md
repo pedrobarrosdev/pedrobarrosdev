@@ -34,8 +34,7 @@ const pedro = {
 
 <h2></h2>
   
-<h3 align="center"><a href="https://www.linkedin.com/in/pedrogcamposb/">Let's network!</a></h3>
-
+<h3 align="center">🔗 <a href="https://www.linkedin.com/in/pedrogcamposb/">Let's network!</a></h3>
 
 
 
