@@ -1,7 +1,7 @@
-<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="16px"> Welcome to my GitHub profile!</h3>
-<p></p>
+<h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="16px"> Welcome to my GitHub profile!</h2>
 
-<h4>About me</h4>
+<h3>About me</h3>
+
 <img src="https://user-images.githubusercontent.com/71517464/132427018-5963a25b-3621-487f-83b0-9230886e47dd.gif" width="300px" align="right">
 
 Hello! I much appreciate you're interest in getting to know me!
