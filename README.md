@@ -89,8 +89,10 @@ const pedro = {
 <!-- GRAYWHITE THEME -->
 
 <div align="center">
-  <a href="https://github.com/pedrogcamposb">
+  <a href="https://github.com/pedrogcamposb/to-do-app">
     <img height="158px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=to-do-app&show_owner=false&hide_border=false&theme=graywhite"/>
+  </a>
+  <a href="https://github.com/pedrogcamposb/profile-card-frontend-mentor">
     <img height="158px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=profile-card-frontend-mentor&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
 </div>
