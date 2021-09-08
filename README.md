@@ -30,18 +30,18 @@ const pedro = {
 
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
-    <img height="168px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img height="168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=default"/>
+    <img height="168px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=default&hide_border=true"/>
   </a>
 </div>
 
 <h3 align="center">🌟 Highlights 🌟</h3>
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
-    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false"/>
-    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false"/>
-    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false"/>
-    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false"/>
+    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=true"/>
+    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=true"/>
+    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=true"/>
+    <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=true"/>
   </a>
 </div>
   
