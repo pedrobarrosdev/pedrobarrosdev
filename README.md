@@ -26,7 +26,7 @@ const pedro = {
     general: ["environmentalism", "politics", "economy", "science", "history", "entrepreneurship"],
     tech: ["blockchain", "artificial intelligence", "cybersecurity", "backend engineering"]
   },
-  funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time."
+  funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... most of the time, say what?"
 };
 ```
 <h3 align="center">📈 Stats 📈</h3>
