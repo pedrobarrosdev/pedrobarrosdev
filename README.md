@@ -13,7 +13,7 @@ const pedro = {
     frontEnd: ["HTML", "CSS", "JavaScript"],
     backEnd: ["Node.js", "Java"],
     database: {
-      SQL: ["mySQL", "Postgre"],
+      SQL: ["mySQL", "PostgreSQL"],
       noSQL: ["MongoDB"]
     },
     devOps: ["Git"]
