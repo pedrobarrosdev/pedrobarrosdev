@@ -20,7 +20,7 @@ const pedro = {
   },
   currentlyStudying: "Node.js",
   currentlyWorkingOn: "building my portfolio",
-  iHaveEyesOn: ["React.js", "React Native", "Elixir"],
+  iHaveEyesOn: ["TypeScript", "React.js", "React Native", "Java", "Elixir"],
   spokenLanguages: ["Portuguese", "English", "French"],
   interests: {
     general: ["environmentalism", "politics", "economy", "science", "history", "entrepreneurship"],
