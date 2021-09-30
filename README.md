@@ -14,7 +14,7 @@ const pedro = {
     backEnd: ["Node.js", "Java"],
     database: {
       SQL: ["mySQL", "PostgreSQL"],
-      noSQL: ["MongoDB"]
+      noSQL: ["MongoDB", "Firebase"]
     },
     devOps: ["Git"]
   },
