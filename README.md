@@ -55,8 +55,8 @@ const pedro = {
 
 <div align="center">
   <a href="https://github.com/pedrogcamposb">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's Activity"/>
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=graywhite&hide_border=false&locale=en&custom_title=Technologies"/>
+    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's Activity"/>
+    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=graywhite&hide_border=false&locale=en&custom_title=Technologies"/>
   </a>
 </div>
 
@@ -90,10 +90,10 @@ const pedro = {
 
 <div align="center">
   <a href="https://github.com/pedrogcamposb/to-do-app">
-    <img height="155px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=to-do-app&show_owner=false&hide_border=false&theme=graywhite"/>
+    <img height="135px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=to-do-app&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
   <a href="https://github.com/pedrogcamposb/profile-card-frontend-mentor">
-    <img height="155px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=profile-card-frontend-mentor&show_owner=false&hide_border=false&theme=graywhite"/>
+    <img height="135px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=profile-card-frontend-mentor&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
 </div>
 
