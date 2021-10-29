@@ -89,7 +89,7 @@ const pedro = {
 <!-- GRAYWHITE THEME -->
 
 <div align="center">
-  <a href="https://github.com/pedrogcamposb/to-do-app">
+  <a href="https://github.com/pedrogcamposb/conceitos-do-nodejs">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=to-do-app&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
   <a href="https://github.com/pedrogcamposb/profile-card-frontend-mentor">
