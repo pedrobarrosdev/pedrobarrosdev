@@ -31,6 +31,38 @@ const pedro = {
 ```
 <h3 align="center">📈 Stats 📈</h3>
 
+<!-- GRAYWHITE THEME -->
+
+<div align="center">
+  <a href="https://github.com/pedrogcamposb">
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's Activity"/>
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=graywhite&hide_border=false&locale=en&custom_title=Technologies"/>
+  </a>
+</div>
+
+<h3 align="center">🌟 Highlights 🌟</h3>
+
+<!-- GRAYWHITE THEME -->
+
+<div align="center">
+  <a href="https://github.com/pedrogcamposb/conceitos-do-nodejs">
+    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=graywhite"/>
+  </a>
+  <a href="https://github.com/pedrogcamposb/conceitos-do-nodejs">
+    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=graywhite"/>
+  </a>
+</div>
+
+<h2></h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedrogcamposb/">
+   <img height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/><br><strong><em>Let's network!</em></strong>
+  </a>
+</div>
+
+<!-- 📈 STATS 📈 -->
+
 <!-- CUSTOM THEME -->
 <!--
 <div align="center">
@@ -51,16 +83,7 @@ const pedro = {
 </div>
 -->
 
-<!-- GRAYWHITE THEME -->
-
-<div align="center">
-  <a href="https://github.com/pedrogcamposb">
-    <img height="155px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's Activity"/>
-    <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=graywhite&hide_border=false&locale=en&custom_title=Technologies"/>
-  </a>
-</div>
-
-<h3 align="center">🌟 Highlights 🌟</h3>
+<!-- 🌟 HIGHLIGHTS 🌟 -->
 
 <!-- CUSTOM THEME -->
 <!--
@@ -85,22 +108,3 @@ const pedro = {
   </a>
 </div>
 -->
-
-<!-- GRAYWHITE THEME -->
-
-<div align="center">
-  <a href="https://github.com/pedrogcamposb/conceitos-do-nodejs">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=graywhite"/>
-  </a>
-  <a href="https://github.com/pedrogcamposb/conceitos-do-nodejs">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=graywhite"/>
-  </a>
-</div>
-
-<h2></h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedrogcamposb/">
-   <img height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/><br><strong><em>Let's network!</em></strong>
-  </a>
-</div>
