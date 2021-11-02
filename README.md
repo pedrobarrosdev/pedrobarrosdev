@@ -48,8 +48,8 @@ const pedro = {
   <a href="https://github.com/pedrogcamposb/conceitos-do-nodejs">
     <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
-  <a href="https://github.com/pedrogcamposb/conceitos-do-nodejs">
-    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=graywhite"/>
+  <a href="https://github.com/pedrogcamposb/trabalhando-com-middlewares">
+    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
 </div>
 
