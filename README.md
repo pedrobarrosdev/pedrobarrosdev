@@ -11,7 +11,7 @@ const pedro = {
   codingSince: 2020,
   skills: {
     frontEnd: ["HTML", "CSS", "JavaScript"],
-    backEnd: ["Node.js", "Java"],
+    backEnd: ["Node.js", "TypeScript", "Java", "Python"],
     database: {
       SQL: ["mySQL", "PostgreSQL"],
       noSQL: ["MongoDB", "Firebase"]
