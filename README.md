@@ -16,7 +16,7 @@ const pedro = {
       SQL: ["mySQL", "PostgreSQL"],
       noSQL: ["MongoDB", "Firebase"]
     },
-    devOps: ["Git"]
+    devOps: ["Git", "Docker"]
   },
   currentlyStudying: "Node.js",
   currentlyWorkingOn: "building my portfolio",
