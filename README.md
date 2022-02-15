@@ -1,14 +1,14 @@
+<!-- BANNER -->
 <h6 align="center"><em>This content is best seen with appearence set to default light theme.</em></h6>
 
+<!-- BANNER -->
 <div align="center">
-  <!-- ORIGINAL BANNER -->
   <img src="https://user-images.githubusercontent.com/71517464/132535186-fad120cc-ba91-451e-9cd6-92d867d762e4.gif" align="center">
-  <!-- BANNER 1 -->
-  <img src="https://user-images.githubusercontent.com/71517464/154146820-df80895c-a3c8-4583-9ca5-1c7763e77463.gif" align="center">
 </div>
 
 <br>
 
+<!-- ABOUT -->
 ```javascript
 const pedro = {
   codingSince: 2020,
@@ -32,6 +32,8 @@ const pedro = {
   funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... wait, what did you say?"
 };
 ```
+
+<!-- STATS -->
 <h3 align="center">📈 Stats 📈</h3>
 
 <!-- GRAYWHITE THEME -->
@@ -86,6 +88,7 @@ const pedro = {
 </div>
 -->
 
+<!-- REPOSITORIES -->
 <!-- 🌟 HIGHLIGHTS 🌟 -->
 
 <!-- CUSTOM THEME -->
