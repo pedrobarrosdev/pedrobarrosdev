@@ -39,9 +39,9 @@ const pedro = {
 <!-- GRAYWHITE THEME -->
 
 <div align="center">
-  <a href="https://github.com/pedrogcamposb">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's Activity"/>
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=graywhite&hide_border=false&locale=en&custom_title=Technologies"/>
+  <a href="https://github.com/pedroglcb">
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=pedroglcb&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's Activity"/>
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroglcb&layout=compact&langs_count=7&theme=graywhite&hide_border=false&locale=en&custom_title=Technologies"/>
   </a>
 </div>
 
@@ -51,11 +51,11 @@ const pedro = {
 <!-- GRAYWHITE THEME -->
 
 <div align="center">
-  <a href="https://github.com/pedrogcamposb/conceitos-do-nodejs">
-    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=graywhite"/>
+  <a href="https://github.com/pedroglcb/conceitos-do-nodejs">
+    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroglcb&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
-  <a href="https://github.com/pedrogcamposb/trabalhando-com-middlewares">
-    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrogcamposb&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=graywhite"/>
+  <a href="https://github.com/pedroglcb/trabalhando-com-middlewares">
+    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroglcb&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
 </div>
 
@@ -63,7 +63,7 @@ const pedro = {
 
 <!-- LINKEDIN -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedrogcamposb/">
+  <a href="https://www.linkedin.com/in/pedroglcb/">
    <img height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/><br><strong><em>Let's network!</em></strong>
   </a>
 </div>
@@ -76,9 +76,9 @@ const pedro = {
 <!-- CUSTOM THEME -->
 <!--
 <div align="center">
-  <a href="https://github.com/pedrogcamposb">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's GitHub"/>
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=default&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069&locale=en"/>
+  <a href="https://github.com/pedroglcb">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=pedroglcb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's GitHub"/>
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroglcb&layout=compact&langs_count=7&theme=default&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069&locale=en"/>
   </a>
 </div>
 -->
@@ -86,9 +86,9 @@ const pedro = {
 <!-- BLACK AND WHITE THEME -->
 <!--
 <div align="center">
-  <a href="https://github.com/pedrogcamposb">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=pedrogcamposb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&bg_color=fffff&border_color=000000&title_color=000000&icon_color=000000&text_color=000000&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's GitHub"/>
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogcamposb&layout=compact&langs_count=7&theme=default&hide_border=false&bg_color=ffffff&border_color=000000&title_color=000000&icon_color=000000&text_color=000000&locale=en"/>
+  <a href="https://github.com/pedroglcb">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=pedroglcb&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&bg_color=fffff&border_color=000000&title_color=000000&icon_color=000000&text_color=000000&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's GitHub"/>
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroglcb&layout=compact&langs_count=7&theme=default&hide_border=false&bg_color=ffffff&border_color=000000&title_color=000000&icon_color=000000&text_color=000000&locale=en"/>
   </a>
 </div>
 -->
@@ -98,7 +98,7 @@ const pedro = {
 <!-- CUSTOM THEME -->
 <!--
 <div align="center">
-  <a href="https://github.com/pedrogcamposb">
+  <a href="https://github.com/pedroglcb">
     <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069"/>
     <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069"/>
     <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=F6F8FA&border_color=F6F8FA&title_color=0050AE&icon_color=0050AE&text_color=003069"/>
@@ -110,7 +110,7 @@ const pedro = {
 <!-- BLACK AND WHITE THEME -->
 <!--
 <div align="center">
-  <a href="https://github.com/pedrogcamposb">
+  <a href="https://github.com/pedroglcb">
     <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=fffff&border_color=000000&title_color=000000&icon_color=000000&text_color=000000"/>
     <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=fffff&border_color=000000&title_color=000000&icon_color=000000&text_color=000000"/>
     <img height="127px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=false&hide_border=false&bg_color=fffff&border_color=000000&title_color=000000&icon_color=000000&text_color=000000"/>
