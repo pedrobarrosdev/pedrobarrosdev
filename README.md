@@ -63,7 +63,7 @@ const pedro = {
 
 <!-- LINKEDIN -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedroglcb/">
+  <a href="https://www.linkedin.com/in/pedrobarros-dev/">
    <img height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/><br><strong><em>Let's network!</em></strong>
   </a>
 </div>
