@@ -39,9 +39,9 @@ const pedro = {
 <!-- GRAYWHITE THEME -->
 
 <div align="center">
-  <a href="https://github.com/pedroglcb">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=pedroglcb&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's Activity"/>
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroglcb&layout=compact&langs_count=7&theme=graywhite&hide_border=false&locale=en&custom_title=Technologies"/>
+  <a href="https://github.com/pedrobarrosdotdev">
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=pedrobarrosdotdev&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's Activity"/>
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarrosdotdev&layout=compact&langs_count=7&theme=graywhite&hide_border=false&locale=en&custom_title=Technologies"/>
   </a>
 </div>
 
@@ -51,11 +51,11 @@ const pedro = {
 <!-- GRAYWHITE THEME -->
 
 <div align="center">
-  <a href="https://github.com/pedroglcb/conceitos-do-nodejs">
-    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroglcb&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=graywhite"/>
+  <a href="https://github.com/pedrobarrosdotdev/conceitos-do-nodejs">
+    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
-  <a href="https://github.com/pedroglcb/trabalhando-com-middlewares">
-    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroglcb&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=graywhite"/>
+  <a href="https://github.com/pedrobarrosdotdev/trabalhando-com-middlewares">
+    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
 </div>
 
