@@ -14,7 +14,7 @@ const pedro = {
   codingSince: 2020,
   skills: {
     frontEnd: ["HTML", "CSS", "JavaScript"],
-    backEnd: ["Node.js", "TypeScript", "Java", "Python"],
+    backEnd: ["Node.js", "TypeScript"],
     database: {
       SQL: ["mySQL", "PostgreSQL"],
       noSQL: ["MongoDB", "Firebase"]
@@ -23,11 +23,10 @@ const pedro = {
   },
   currentlyStudying: "Node.js",
   currentlyWorkingOn: "building my portfolio",
-  iHaveEyesOn: ["React.js", "React Native", "Elixir"],
   spokenLanguages: ["Portuguese", "English", "French"],
   interests: {
     general: ["environmentalism", "politics", "economy", "science", "history", "entrepreneurship"],
-    tech: ["backend engineering", "blockchain", "automation", "cybersecurity"]
+    tech: ["backend engineering", "quantum computing", "cybersecurity", "automation", "blockchain"]
   },
   funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... wait, what did you say?"
 };
