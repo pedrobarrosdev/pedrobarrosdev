@@ -1,10 +1,14 @@
 <!-- BANNER -->
+<!--
 <h6 align="center"><em>This content is best seen with appearence set to default light theme.</em></h6>
+-->
 
 <!-- BANNER -->
+<!--
 <div align="center">
   <img src="https://user-images.githubusercontent.com/71517464/132535186-fad120cc-ba91-451e-9cd6-92d867d762e4.gif" align="center">
 </div>
+-->
 
 <br>
 
