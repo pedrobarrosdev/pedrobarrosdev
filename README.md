@@ -42,25 +42,47 @@ const pedro = {
 <h3 align="center">📈 Stats 📈</h3>
 
 <!-- GRAYWHITE THEME -->
-
+<!--
 <div align="center">
   <a href="https://github.com/pedrobarrosdotdev">
     <img height="140px" src="https://github-readme-stats.vercel.app/api?username=pedrobarrosdotdev&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=false&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's Activity"/>
     <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarrosdotdev&layout=compact&langs_count=7&theme=graywhite&hide_border=false&locale=en&custom_title=Technologies"/>
   </a>
 </div>
+-->
 
+<!-- GITHUB_DARK THEME -->
+
+<div align="center">
+  <a href="https://github.com/pedrobarrosdotdev">
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=pedrobarrosdotdev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's Activity"/>
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarrosdotdev&layout=compact&langs_count=7&theme=github_dark&hide_border=false&locale=en&custom_title=Technologies"/>
+  </a>
+</div>
+    
 <!-- REPOSITORIES -->
 <h3 align="center">🌟 Highlights 🌟</h3>
 
 <!-- GRAYWHITE THEME -->
-
+<!--
 <div align="center">
   <a href="https://github.com/pedrobarrosdotdev/conceitos-do-nodejs">
     <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
   <a href="https://github.com/pedrobarrosdotdev/trabalhando-com-middlewares">
     <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=graywhite"/>
+  </a>
+</div>
+-->
+
+<!-- GITHUB_DARK THEME -->
+
+<div align="center">
+  <a href="https://github.com/pedrobarrosdotdev/conceitos-do-nodejs">
+    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=github_dark"/>
+  </a>
+  <a href="https://github.com/pedrobarrosdotdev/trabalhando-com-middlewares">
+    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=github_dark"/>
   </a>
 </div>
 
