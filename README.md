@@ -51,12 +51,14 @@ const pedro = {
 </div>
 -->
 
-<!-- GITHUB_DARK THEME -->
+<!-- NORD THEME -->
+
+<!-- height="140px" -->
 
 <div align="center">
   <a href="https://github.com/pedrobarrosdotdev">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=pedrobarrosdotdev&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=false&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's Activity"/>
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarrosdotdev&layout=compact&langs_count=7&theme=nord&hide_border=false&locale=en&custom_title=Technologies"/>
+    <img height="145px" src="https://github-readme-stats.vercel.app/api?username=pedrobarrosdotdev&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=false&locale=en&count_private=true&hide_rank=false&custom_title=Pedro's Activity"/>
+    <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarrosdotdev&layout=compact&langs_count=7&theme=nord&hide_border=false&locale=en&custom_title=Technologies"/>
   </a>
 </div>
     
@@ -75,14 +77,16 @@ const pedro = {
 </div>
 -->
 
-<!-- GITHUB_DARK THEME -->
+<!-- NORD THEME -->
+
+<!-- height="145px" -->
 
 <div align="center">
   <a href="https://github.com/pedrobarrosdotdev/conceitos-do-nodejs">
-    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=nord"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=nord"/>
   </a>
   <a href="https://github.com/pedrobarrosdotdev/trabalhando-com-middlewares">
-    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=nord"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=nord"/>
   </a>
 </div>
 
