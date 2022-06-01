@@ -69,10 +69,10 @@ const pedro = {
 <!--
 <div align="center">
   <a href="https://github.com/pedrobarrosdotdev/conceitos-do-nodejs">
-    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=graywhite"/>
+    <img height="155px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
   <a href="https://github.com/pedrobarrosdotdev/trabalhando-com-middlewares">
-    <img height="145px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=graywhite"/>
+    <img height="155px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=graywhite"/>
   </a>
 </div>
 -->
@@ -83,10 +83,10 @@ const pedro = {
 
 <div align="center">
   <a href="https://github.com/pedrobarrosdotdev/conceitos-do-nodejs">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=nord"/>
+    <img height="155px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=nord"/>
   </a>
   <a href="https://github.com/pedrobarrosdotdev/trabalhando-com-middlewares">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=nord"/>
+    <img height="155px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=nord"/>
   </a>
 </div>
 
