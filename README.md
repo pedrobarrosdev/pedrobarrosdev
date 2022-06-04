@@ -13,7 +13,7 @@
   
 </div>
 
-<h3></h3>
+<h6></h6>
 
 <!-- ABOUT -->
 ```javascript
