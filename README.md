@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <a href="https://www.linkedin.com/in/pedrobarrosdev/">
       <img height="36px" src="https://www.svgrepo.com/show/343567/linkedin-network-communication-connection-internet-online.svg" alt="LinkedIn"/>
   </a>
