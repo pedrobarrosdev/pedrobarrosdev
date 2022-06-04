@@ -8,36 +8,38 @@
 <!--
 <br>
 -->
-<!--
-<a href="https://www.linkedin.com/in/pedrobarrosdev/">
-  <img height="35px" src="https://www.svgrepo.com/show/75820/linkedin.svg"/>
-</a>
 
-<a href="https://www.linkedin.com/in/pedrobarrosdev/">
-  <img height="35px" src="https://www.svgrepo.com/show/349527/telegram.svg"/>
-</a>
--->
+<div align="center">
+  <a href="#">
+    <img height="35px" src="https://www.svgrepo.com/show/374171/vscode.svg"/>
+  </a>
+  <a href="#">
+    <img height="35px" src="https://www.svgrepo.com/show/373669/html.svg"/>
+  </a>
+  <a href="#">
+    <img height="35px" src="https://www.svgrepo.com/show/373535/css.svg"/>
+  </a>
+  <a href="#">
+    <img height="35px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg"/>
+  </a>
+  <a href="#">
+    <img height="35px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg"/>
+  </a>
+  <a href="#">
+    <img height="35px" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg"/>
+  </a>
+  <a href="#">
+    <img height="35px" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg"/>
+  </a>
+  <a href="#">
+    <img height="35px" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg"/>
+  </a>
+  <a href="#">
+    <img height="35px" src="https://www.svgrepo.com/show/303210/figma-1-logo.svg"/>
+  </a>
+</div>
 
-<a href="#">
-  <img height="35px" src="https://www.svgrepo.com/show/373669/html.svg"/>
-</a>
-<a href="#">
-  <img height="35px" src="https://www.svgrepo.com/show/373535/css.svg"/>
-</a>
-<a href="#">
-  <img height="35px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg"/>
-</a>
-<a href="#">
-  <img height="35px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg"/>
-</a>
-<a href="#">
-  <img height="35px" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg"/>
-</a>
-<a href="#">
-  <img height="35px" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg"/>
-</a>
-
-
+<h2></h2>
 
 <!-- ABOUT -->
 ```javascript
@@ -93,10 +95,25 @@ const pedro = {
 
 <h2></h2>
 
-<!-- LINKEDIN -->
+<!-- LINKEDIN 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedrobarrosdev/">
    <img height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/><br><strong><em>LinkedIn</em></strong>
+  </a>
+</div>
+-->
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/pedrobarrosdev/">
+    <img height="35px" src="https://www.svgrepo.com/show/75820/linkedin.svg"/>
+  </a>
+
+  <a href="https://t.me/pedrobarrosdev">
+    <img height="35px" src="https://www.svgrepo.com/show/349527/telegram.svg"/>
+  </a>
+
+  <a href="mailto:contactme@pedrobarros.dev">
+    <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png?20141024222707"/>
   </a>
 </div>
