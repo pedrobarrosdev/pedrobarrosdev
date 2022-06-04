@@ -1,14 +1,14 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/pedrobarrosdev/">
-      <img height="35px" src="https://www.svgrepo.com/show/75820/linkedin.svg" alt="LinkedIn"/>
+      <img height="35px" src="https://www.svgrepo.com/show/343567/linkedin-network-communication-connection-internet-online.svg" alt="LinkedIn"/>
+  </a>
+  
+  <a href="mailto:contactme@pedrobarros.dev">
+      <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png?20141024222707" alt="Email" />
   </a>
   
   <a href="https://t.me/pedrobarrosdev">
       <img height="35px" src="https://www.svgrepo.com/show/349527/telegram.svg" alt="Telegram"/>
-  </a>
-
-  <a href="mailto:contactme@pedrobarros.dev">
-      <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png?20141024222707" alt="Email" />
   </a>
 </div>
 
