@@ -4,13 +4,13 @@
   <a href="https://www.linkedin.com/in/pedrobarrosdev/">
       <img height="35px" src="https://user-images.githubusercontent.com/71517464/172020255-45e35093-1fa1-4847-9c5e-7ae61457fed5.png" alt="LinkedIn"/>
   </a>
-  
-  <a href="mailto:contactme@pedrobarros.dev">
-      <img height="35px" src="https://user-images.githubusercontent.com/71517464/172020269-e90e29c9-8400-46f7-b571-91fe955da2cf.png" alt="Email" />
-  </a>
 
   <a href="https://t.me/pedrobarrosdev">
       <img height="35px" src="https://user-images.githubusercontent.com/71517464/172020198-25503ef4-30ea-4a0d-8a74-deaee14333a7.png" alt="Telegram"/>
+  </a>
+  
+  <a href="mailto:contactme@pedrobarros.dev">
+      <img height="35px" src="https://user-images.githubusercontent.com/71517464/172020269-e90e29c9-8400-46f7-b571-91fe955da2cf.png" alt="Email" />
   </a>
   
 </div>
