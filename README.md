@@ -9,6 +9,8 @@
 <br>
 -->
 
+<!-- ICONS
+
 <div align="center">
   <a href="#">
     <img height="35px" src="https://www.svgrepo.com/show/374171/vscode.svg"/>
@@ -40,6 +42,7 @@
 </div>
 
 <h2></h2>
+-->
 
 <!-- ABOUT -->
 ```javascript
