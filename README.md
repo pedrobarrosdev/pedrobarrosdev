@@ -96,7 +96,7 @@ const pedro = {
 <!-- LINKEDIN -->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedrobarrosdotdev/">
+  <a href="https://www.linkedin.com/in/pedrobarrosdev/">
    <img height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/><br><strong><em>LinkedIn</em></strong>
   </a>
 </div>
