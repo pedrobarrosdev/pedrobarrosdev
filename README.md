@@ -1,51 +1,4 @@
-<!-- BANNER -->
-<!--
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/71517464/132535186-fad120cc-ba91-451e-9cd6-92d867d762e4.gif" align="center">
-</div>
--->
-
-<!--
-<br>
--->
-
-<!-- ICONS
-
-<div align="center">
-  <a href="#">
-    <img height="35px" src="https://www.svgrepo.com/show/374171/vscode.svg"/>
-  </a>
-  <a href="#">
-    <img height="35px" src="https://www.svgrepo.com/show/373669/html.svg"/>
-  </a>
-  <a href="#">
-    <img height="35px" src="https://www.svgrepo.com/show/373535/css.svg"/>
-  </a>
-  <a href="#">
-    <img height="35px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg"/>
-  </a>
-  <a href="#">
-    <img height="35px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg"/>
-  </a>
-  <a href="#">
-    <img height="35px" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg"/>
-  </a>
-  <a href="#">
-    <img height="35px" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg"/>
-  </a>
-  <a href="#">
-    <img height="35px" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg"/>
-  </a>
-  <a href="#">
-    <img height="35px" src="https://www.svgrepo.com/show/303210/figma-1-logo.svg"/>
-  </a>
-</div>
-
-
-
-
--->
-<div align="right">
+<div align="left">
     <a href="https://www.linkedin.com/in/pedrobarrosdev/" target="_blank">
     <img height="35px" src="https://www.svgrepo.com/show/75820/linkedin.svg"/>
   </a>
@@ -58,6 +11,7 @@
     <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png?20141024222707"/>
   </a>
 </div>
+
 <h3></h3>
 
 <!-- ABOUT -->
@@ -99,10 +53,6 @@ const pedro = {
 
 <h3 align="center">🌟 Highlights 🌟</h3>
 
-<!-- NORD THEME -->
-
-<!-- height="145px" -->
-
 <div align="center">
   <a href="https://github.com/pedrobarrosdotdev/conceitos-do-nodejs">
     <img height="155px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=conceitos-do-nodejs&show_owner=false&hide_border=false&theme=nord"/>
@@ -111,23 +61,3 @@ const pedro = {
     <img height="155px" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrobarrosdotdev&repo=trabalhando-com-middlewares&show_owner=false&hide_border=false&theme=nord"/>
   </a>
 </div>
-
-<!-- 
-<h2></h2>
-
-<!-- CONTACT 
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/pedrobarrosdev/" target="_blank">
-    <img height="35px" src="https://www.svgrepo.com/show/75820/linkedin.svg"/>
-  </a>
-  
-  <a href="https://t.me/pedrobarrosdev" target="_blank">
-    <img height="35px" src="https://www.svgrepo.com/show/349527/telegram.svg"/>
-  </a>
-
-  <a href="mailto:contactme@pedrobarros.dev" target="_blank">
-    <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png?20141024222707"/>
-  </a>
-</div>
--->
