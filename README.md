@@ -1,10 +1,10 @@
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/pedrobarrosdev/">
       <img height="36px" src="https://www.svgrepo.com/show/343567/linkedin-network-communication-connection-internet-online.svg" alt="LinkedIn"/>
   </a>
   
   <a href="https://t.me/pedrobarrosdev">
-      <img height="35px" src="https://www.svgrepo.com/show/344736/dot.svg" alt="Dot"/>
+      <img height="35px" src="https://www.svgrepo.com/show/331860/dot.svg" alt="Dot"/>
   </a>
   
   <a href="mailto:contactme@pedrobarros.dev">
@@ -12,7 +12,7 @@
   </a>
   
   <a href="https://t.me/pedrobarrosdev">
-      <img height="35px" src="https://www.svgrepo.com/show/344736/dot.svg" alt="Dot"/>
+      <img height="35px" src="https://www.svgrepo.com/show/331860/dot.svg" alt="Dot"/>
   </a>
 
   <a href="https://t.me/pedrobarrosdev">
