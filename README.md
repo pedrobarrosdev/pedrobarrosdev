@@ -98,18 +98,15 @@ const pedro = {
 
 <h2></h2>
 
-<!-- LINKEDIN 
+<!-- CONTACT ICONS -->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedrobarrosdev/">
-   <img height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/><br><strong><em>LinkedIn</em></strong>
-  </a>
-</div>
--->
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/pedrobarrosdev/">
+    <a href="https://www.linkedin.com/in/pedrobarrosdev/">
     <img height="35px" src="https://www.svgrepo.com/show/75820/linkedin.svg"/>
+  </a>
+  
+  <a href="https://t.me/pedrobarrosdev">
+    <img height="35px" src="https://www.svgrepo.com/show/349527/telegram.svg"/>
   </a>
 
   <a href="mailto:contactme@pedrobarros.dev">
