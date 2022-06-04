@@ -45,7 +45,7 @@
 
 
 -->
-<h2></h2>
+
 <div align="center">
     <a href="https://www.linkedin.com/in/pedrobarrosdev/" target="_blank">
     <img height="35px" src="https://www.svgrepo.com/show/75820/linkedin.svg"/>
@@ -59,7 +59,7 @@
     <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png?20141024222707"/>
   </a>
 </div>
-
+<h2></h2>
 <!-- ABOUT -->
 ```javascript
 const pedro = {
