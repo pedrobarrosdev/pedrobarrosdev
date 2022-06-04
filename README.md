@@ -58,7 +58,7 @@
     <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/1200px-Mail_%28iOS%29.svg.png?20141024222707"/>
   </a>
 </div>
-<h2></h2>
+<h3></h3>
 
 <!-- ABOUT -->
 ```javascript
