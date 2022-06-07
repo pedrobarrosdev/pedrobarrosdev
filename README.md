@@ -31,14 +31,14 @@ const aboutMe = {
     },
     devOps: ["Bash/Zsh", "Git", "Docker", "Jest"],
   },
-  currentlyStudying: "Node.js",
-  currentlyWorkingOn: "building my portfolio",
   spokenLanguages: ["Portuguese", "English", "French"],
   interests: {
     general: ["environmentalism", "politics", "economy", "science", "history", "entrepreneurship"],
     tech: ["backend engineering", "quantum computing", "cybersecurity", "automation", "blockchain"]
   },
-  funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... wait, what did you say?"
+  funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... wait, what did you say?",
+  aQuote: "Do not pity the dead, Harry. Pity the living, and, above all those who live without love. — Albus Dumbledore",
+  aSong: "A Dustland Fairytale — The Killers"
 };
 ```
 
