@@ -36,8 +36,7 @@ const aboutMe = {
     general: ["environmentalism", "politics", "economy", "science", "history", "entrepreneurship"],
     tech: ["backend engineering", "quantum computing", "cybersecurity", "automation", "blockchain"]
   },
-  aSong: "A Dustland Fairytale — The Killers",
-  aQuote: "Do not pity the dead, Harry. Pity the living, and, above all those who live without love. — Albus Dumbledore"
+  funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... wait, what did you say?"
 };
 ```
 
