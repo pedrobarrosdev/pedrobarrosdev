@@ -35,8 +35,7 @@ const aboutMe = {
   interests: {
     general: ["environmentalism", "politics", "economy", "science", "history", "entrepreneurship"],
     tech: ["backend engineering", "quantum computing", "cybersecurity", "automation", "blockchain"]
-  },
-  funFact: "I am 50% deaf on my left ear, but don't worry, I hear just fine... wait, what did you say?"
+  }
 };
 ```
 
