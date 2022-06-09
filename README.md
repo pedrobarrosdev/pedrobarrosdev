@@ -14,15 +14,23 @@
   
 </div>
 
-<h6> </h6>
+<h3></h3>
 
 <!-- ******************************************************************** BANNER ******************************************************************** -->
 
+<!--
 <div align="center">
-  <img alt="Light" src="https://user-images.githubusercontent.com/71517464/172837520-6c588b3f-f1d9-4f83-be4b-314195f0ed58.gif#gh-light-mode-only">
   
-  <img alt="Dark" src="https://user-images.githubusercontent.com/71517464/172837503-00bc5a6a-26a9-4b49-9c40-1183cf234e1f.gif#gh-dark-mode-only">
+  <img alt="Light Mode" src="https://user-images.githubusercontent.com/71517464/172837520-6c588b3f-f1d9-4f83-be4b-314195f0ed58.gif#gh-light-mode-only">
+  
 </div>
+
+<div align="center">
+  
+  <img alt="Dark Mode" src="https://user-images.githubusercontent.com/71517464/172837503-00bc5a6a-26a9-4b49-9c40-1183cf234e1f.gif#gh-dark-mode-only">
+  
+</div>
+-->
 
 <!-- ********************************************************************* ABOUT ********************************************************************* -->
 
