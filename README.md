@@ -1,4 +1,5 @@
 <!-- ***************************************************************** CONTACT ICONS ***************************************************************** -->
+<div align = "right">
   
   <a href="https://www.linkedin.com/in/pedrobarrosdev/">
       <img height="35px" src="https://user-images.githubusercontent.com/71517464/172020255-45e35093-1fa1-4847-9c5e-7ae61457fed5.png" alt="LinkedIn"/>
