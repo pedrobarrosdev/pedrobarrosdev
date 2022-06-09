@@ -1,6 +1,4 @@
 <!-- ***************************************************************** CONTACT ICONS ***************************************************************** -->
-
-<div align="left">
   
   <a href="https://www.linkedin.com/in/pedrobarrosdev/">
       <img height="35px" src="https://user-images.githubusercontent.com/71517464/172020255-45e35093-1fa1-4847-9c5e-7ae61457fed5.png" alt="LinkedIn"/>
@@ -18,9 +16,11 @@
 
 <!-- ******************************************************************** BANNER ******************************************************************** -->
 
-![banner-light-default](https://user-images.githubusercontent.com/71517464/172837520-6c588b3f-f1d9-4f83-be4b-314195f0ed58.gif#gh-light-mode-only)
-
-![banner-dark-default](https://user-images.githubusercontent.com/71517464/172837536-aef2f504-3482-4e55-950b-450383d75511.gif#gh-dark-mode-only)
+<div align="center">
+  <img alt="Light" src="https://user-images.githubusercontent.com/71517464/172837520-6c588b3f-f1d9-4f83-be4b-314195f0ed58.gif">
+  
+  <img alt="Dark" src="https://user-images.githubusercontent.com/71517464/172837536-aef2f504-3482-4e55-950b-450383d75511.gif#gh-dark-mode-only">
+</div>
 
 <!-- ********************************************************************* ABOUT ********************************************************************* -->
 
