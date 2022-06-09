@@ -41,6 +41,8 @@ const aboutMe = {
     tech: ["backend engineering", "quantum computing", "cybersecurity", "automation", "blockchain"]
   }
 };
+
+console.log("Welcome to my GitHub profile!");
 ```
 
 <!-- ********************************************************************* STATS ********************************************************************* -->
