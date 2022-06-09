@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/71517464/132535186-fad120cc-ba91-451e-9cd6-92d867d762e4.gif" align="center">
+</div>
+
 <!-- ***************************************************************** CONTACT ICONS ***************************************************************** -->
 
 <div align="left">
