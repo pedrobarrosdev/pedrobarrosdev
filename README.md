@@ -17,6 +17,7 @@
 <h3></h3>
 
 <!-- ******************************************************************** BANNER ******************************************************************** -->
+  ![banner-light-default](https://user-images.githubusercontent.com/71517464/172837520-6c588b3f-f1d9-4f83-be4b-314195f0ed58.gif#gh-light-mode-only)
 
 <!--
 <div align="center">
